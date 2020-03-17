@@ -1,0 +1,13 @@
+name: ShinyMetric8Ball
+title: ShinyMetric8Ball
+username:
+account: angelgeek
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1784222
+bundleId: 2786724
+url: https://angelgeek.shinyapps.io/ShinyMetric8Ball/
+when: 1581280522.29859
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 8Ball.jpg|ReadMe.txt|www/8Ball.jpg
